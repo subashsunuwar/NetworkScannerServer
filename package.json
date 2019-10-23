@@ -11,7 +11,7 @@
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
-    "libnmap": "^0.2.33",
+    "libnmap": "^0.4.16",
     "node-libnmap": "^0.2.15"
   }
 }
